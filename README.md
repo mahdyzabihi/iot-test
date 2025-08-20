@@ -68,7 +68,7 @@ docker compose up -d
 Run site on this address:
 
 ```bash
-$ localhost:3000/api
+localhost:3000/api
 ```
 
 All APIs are clearly listed in this section by Swagger.
