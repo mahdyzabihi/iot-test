@@ -1,0 +1,14 @@
+{
+    "vhosts": [
+        { "name": "iot" }
+    ],
+    "permissions": [
+        {
+            "user": "guest",
+            "vhost": "iot",
+            "configure": ".*",
+            "write": ".*",
+            "read": ".*"
+        }
+    ]
+}
